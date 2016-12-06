@@ -1,0 +1,6 @@
+{
+  "name": "root/file-upload-service",
+  "require": {
+    "gargron/fileupload": "~1.1.1"
+  }
+}
